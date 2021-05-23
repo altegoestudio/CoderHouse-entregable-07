@@ -1,0 +1,16 @@
+{
+
+  "name": "desafio-entregable-7",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Entregable 7 para CoderHouse",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pablo Menenedez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
